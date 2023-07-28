@@ -35,3 +35,7 @@ in the store. For the convenience of online shopping, a shopping cart is provide
 8.) Tv Products Page
 
 ![screencapture-127-0-0-1-8000-collections-TV-2023-07-28-21_21_13](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/26450e6b-34e6-4d32-9a74-9ee90eb9ad26)
+
+9.) Laptop Products Page
+
+![screencapture-127-0-0-1-8000-collections-Laptop-2023-07-28-21_24_55](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/dab0bf6b-cbee-48d1-bee6-2946778fc84c)
