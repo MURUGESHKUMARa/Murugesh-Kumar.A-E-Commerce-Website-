@@ -55,3 +55,8 @@ in the store. For the convenience of online shopping, a shopping cart is provide
 13.) Bluetooth Headphone Products Page
 
 ![screencapture-127-0-0-1-8000-collections-Bluetooth-HeadPhone-2023-07-29-05_18_24](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/c976d97a-ce31-4b76-8ad5-58430bae15b8)
+
+14.) Mixy Products Page
+
+![screencapture-127-0-0-1-8000-collections-Mixy-2023-07-29-05_21_20](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/5299ede5-7f5d-40e8-9460-e208c4322795)
+
