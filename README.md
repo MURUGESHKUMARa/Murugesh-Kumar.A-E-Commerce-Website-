@@ -10,3 +10,8 @@ in the store. For the convenience of online shopping, a shopping cart is provide
 2.) Register Page
 
 ![screencapture-127-0-0-1-8000-register-2023-07-28-19_25_53](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/860669fb-eb86-4ce1-a48f-490d2bcc5a13)
+
+3.) Already Registered -> To Login Page
+
+
+![screencapture-127-0-0-1-8000-login-2023-07-28-19_41_50](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/f9089d9c-3674-4548-90e7-19a351c032c8)
