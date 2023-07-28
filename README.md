@@ -24,3 +24,7 @@ in the store. For the convenience of online shopping, a shopping cart is provide
 
 ![screencapture-127-0-0-1-8000-collections-Mobiles-2023-07-28-21_07_01](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/98f4c0bf-3abe-4159-ab9e-91d6dbefedd6)
 
+6.) Necklaces Products Page
+
+![screencapture-127-0-0-1-8000-collections-Necklaces-2023-07-28-21_11_44](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/31cbb6f1-029f-4748-a1c6-defccccd47fd)
+
