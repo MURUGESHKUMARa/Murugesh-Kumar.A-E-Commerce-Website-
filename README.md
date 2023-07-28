@@ -51,3 +51,7 @@ in the store. For the convenience of online shopping, a shopping cart is provide
 12.) Washing Machine Product Page
 
 ![screencapture-127-0-0-1-8000-collections-Washing-Machines-2023-07-29-05_12_36](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/a065bd50-4e81-4361-94d1-b7590d470efd)
+
+13.) Bluetooth Headphone Products Page
+
+![screencapture-127-0-0-1-8000-collections-Bluetooth-HeadPhone-2023-07-29-05_18_24](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/c976d97a-ce31-4b76-8ad5-58430bae15b8)
