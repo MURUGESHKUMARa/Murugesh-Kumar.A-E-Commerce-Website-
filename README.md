@@ -15,3 +15,7 @@ in the store. For the convenience of online shopping, a shopping cart is provide
 
 
 ![screencapture-127-0-0-1-8000-login-2023-07-28-19_41_50](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/f9089d9c-3674-4548-90e7-19a351c032c8)
+
+4.) Collections Page
+
+![screencapture-127-0-0-1-8000-collections-2023-07-28-21_03_05](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/100a78b6-b18c-419b-8661-c7471cff6542)
