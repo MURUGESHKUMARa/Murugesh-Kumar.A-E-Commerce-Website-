@@ -6,3 +6,7 @@ in the store. For the convenience of online shopping, a shopping cart is provide
 1.) Home Page
 
 ![screencapture-127-0-0-1-8000-2023-07-28-19_12_10](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/0d86ef60-c63c-433f-a8b8-44e7a93b8dac)
+
+2.) Register Page
+
+![screencapture-127-0-0-1-8000-register-2023-07-28-19_25_53](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/860669fb-eb86-4ce1-a48f-490d2bcc5a13)
