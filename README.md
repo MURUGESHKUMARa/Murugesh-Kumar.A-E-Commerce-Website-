@@ -88,4 +88,7 @@ in the store. For the convenience of online shopping, a shopping cart is provide
 
 ![screencapture-127-0-0-1-8000-collections-Boot-for-Men-2023-07-29-10_01_48](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/dbe7159d-8864-4156-b875-8190a2867aa8)
 
+22.) Product Added To The Cart
+
+![screencapture-127-0-0-1-8000-cart-2023-07-29-11_18_49](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/4d38ab48-590b-4d19-8963-63d91a6aca12)
 
