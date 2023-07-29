@@ -95,3 +95,8 @@ in the store. For the convenience of online shopping, a shopping cart is provide
 23.) Tv Product Removed From Cart Page
 
 ![screencapture-127-0-0-1-8000-cart-2023-07-29-11_34_41](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/910011af-5a5b-460a-a963-59237ab759b7)
+
+23.) Favourite Products Added To The Favorite Page
+
+![screencapture-127-0-0-1-8000-favviewpage-2023-07-29-11_38_10](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/1e392261-3ae1-4849-bdbf-ced8439aa9a3)
+
