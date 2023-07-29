@@ -68,3 +68,24 @@ in the store. For the convenience of online shopping, a shopping cart is provide
 
 ![screencapture-127-0-0-1-8000-collections-Fan-2023-07-29-05_26_54](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/5d4d0392-7867-48cf-81f1-ff7e976a7733)
 
+17.) Keyboard Products Page
+
+![screencapture-127-0-0-1-8000-collections-Keyboard-2023-07-29-10_00_15](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/904e2521-719f-419c-9fb1-f754a7ca587b)
+
+18.) Rings Products Page
+
+![screencapture-127-0-0-1-8000-collections-Rings-2023-07-29-10_00_53](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/e1b2bc23-a79d-434a-aaa6-1db718787e7e)
+
+19.) Studs Product Page
+
+![screencapture-127-0-0-1-8000-collections-Studs-2023-07-29-10_01_07](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/f0c7bd98-53ab-44cd-947a-088b880d3e5b)
+
+20.) Bags Products Page
+
+![screencapture-127-0-0-1-8000-collections-Bags-2023-07-29-10_01_33](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/68c269c3-1a82-41e5-ae8e-af6bf6d7786f)
+
+21.) Boot For Men Products Page
+
+![screencapture-127-0-0-1-8000-collections-Boot-for-Men-2023-07-29-10_01_48](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/dbe7159d-8864-4156-b875-8190a2867aa8)
+
+
