@@ -100,3 +100,7 @@ in the store. For the convenience of online shopping, a shopping cart is provide
 
 ![screencapture-127-0-0-1-8000-favviewpage-2023-07-29-11_38_10](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/1e392261-3ae1-4849-bdbf-ced8439aa9a3)
 
+24.) Apple Iphone 14 Pro Max(256 GB)-Gold
+
+![screencapture-127-0-0-1-8000-favviewpage-2023-07-29-11_43_35](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/e573006d-c718-4376-be3c-5d5c90122641)
+
