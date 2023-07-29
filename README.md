@@ -60,3 +60,11 @@ in the store. For the convenience of online shopping, a shopping cart is provide
 
 ![screencapture-127-0-0-1-8000-collections-Mixy-2023-07-29-05_21_20](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/5299ede5-7f5d-40e8-9460-e208c4322795)
 
+15.) Speaker Products Page
+
+![screencapture-127-0-0-1-8000-collections-Speaker-2023-07-29-05_25_43](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/84915e96-ddb3-425c-8855-29ed04e7016d)
+
+16.) Fan Product Page
+
+![screencapture-127-0-0-1-8000-collections-Fan-2023-07-29-05_26_54](https://github.com/MURUGESHKUMARa/Murugesh-Kumar.A-E-Commerce-Website-/assets/137079672/5d4d0392-7867-48cf-81f1-ff7e976a7733)
+
